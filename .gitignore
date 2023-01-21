@@ -1,0 +1,10 @@
+# Virtual Environment
+.venv
+
+# Python
+**/__pycache__
+.python-version
+
+# Build
+build
+dist
